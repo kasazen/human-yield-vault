@@ -1,4 +1,17 @@
+# Foundry build artifacts
 out/
 cache/
+
+# Dependencies
 lib/
+
+# Local environment & Secrets (CRITICAL)
 .env
+.envrc
+
+# Testing and deployment logs
+broadcast/
+test-results/
+
+# System files
+.DS_Store
