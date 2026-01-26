@@ -16,10 +16,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Project-specific Roll-ups
+# Project-specific Cleanups
 VEDA_FULL_AUDIT.txt
-VEDA_PRODUCTION_READY.txt
-
-# Hardhat/Truffle (if legacy files exist)
-typechain/
-typechain-types/
+VEDA_GOLDEN_STATE.txt
