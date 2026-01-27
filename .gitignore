@@ -1,21 +1,6 @@
-# Foundry & Solidity Build Artifacts
-out/
-cache/
-artifacts/
-
-# Dependencies
-lib/
-node_modules/
-
-# Sensitive Environment Data
 .env
 .env.*
-! .env.example
-
-# OS-specific
+out/
+cache/
+broadcast/
 .DS_Store
-Thumbs.db
-
-# Project-specific Cleanups
-VEDA_FULL_AUDIT.txt
-VEDA_GOLDEN_STATE.txt
