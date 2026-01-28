@@ -1,16 +1,4 @@
-# 1. SECURITY (CRITICAL)
-.env
-.env.*
-
-# 2. Build Artifacts (Too large/noisy for GitHub)
-out/
-cache/
-broadcast/
-
-# 3. Dependencies
-lib/
 node_modules/
-
-# 4. System Files
-.DS_Store
-Thumbs.db
+cache/
+artifacts/
+.env
